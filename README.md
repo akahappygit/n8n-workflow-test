@@ -1,4 +1,4 @@
-S# AI Lead Scraper Automation (n8n)
+# AI Lead Scraper Automation (n8n)
 
 Automation workflow built using n8n.
 
